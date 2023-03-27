@@ -1,0 +1,11 @@
+Passo 1 - banco de dados já criado com Alunos e Cursos para manipulações, neste repositório tem o Dump caso queiram baixar e realizar a manipulação dos dados
+como irei fazer, para abrir o dump no workbench é só ir na aba Server e depois em Data import selecionar, marcar a opção Import from Self-Contained file e selecionar 
+O Arquivo Dump na sua máquina e star import pronto atualize e o banco de dados já estará rodando na sua maquina.
+
+passo 2 - Verificando as informações
+
+Use cadastro; ( para acessar ao banco de dados desejado.)
+
+em seguida..
+
+Select from 
