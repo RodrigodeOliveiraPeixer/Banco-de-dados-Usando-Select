@@ -33,4 +33,19 @@ Passo 3 - Verificando se as informações estão corretas.
 </div>
 </br>
 
+<br>
+passo 4 - Ordenando as pesquisas na tabela cursos pela ordem alfabética(nome)
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/228130079-dfd4c0a0-a61c-4e3b-b2b8-ce7c1ca14375.jpeg" width="980px" />
+</div>
+</br>
+
+
+
+
+
+
+
 em andamento, atualizações diárias...
