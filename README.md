@@ -60,7 +60,14 @@ passo 6 - realizando consulta na tabela cursos, somente dos dados que eu desejo(
 </div>
 </br>
 
-
+<br>
+passo 7 - realizando consulta na tabela cursos, somente dos dados que eu desejo(nome,carga,ano e colocando ano como principal e ordenando por nome)
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/228132551-fb937817-e3f4-4a08-b222-a98870bc0aa5.jpeg" width="980px" />
+</div>
+</br>
 
 
 
