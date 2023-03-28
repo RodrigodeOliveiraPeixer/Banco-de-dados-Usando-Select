@@ -78,7 +78,14 @@ passo 8 - Realizando consulta na tabela cursos, somente dos dados que eu desejo 
 </div>
 </br>
 
-
+<br>
+passo 9 - realizando consulta na tabela cursos, somente dos dados que eu desejo (nome, ano entre 2014 and 2016)
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/228135601-2f0f9291-1768-4258-b08f-80184c27dd91.jpeg" width="980px" />
+</div>
+</br>
 
 
 
