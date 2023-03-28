@@ -1,4 +1,4 @@
-# Banco-de-dados-Usando-Select
+# Banco-de-dados-Usando-Select-Consultas-e-manipulações
 
 - Para manipulação do bando de dados execute os comando abaixo.
 
