@@ -34,7 +34,7 @@ Passo 3 - Verificando se as informações estão corretas.
 </br>
 
 <br>
-passo 4 - Ordenando as pesquisas na tabela cursos pela ordem alfabética(nome)
+passo 4 - Ordenando as pesquisas na tabela cursos pela ordem pelo ID
 </br>
 <br>
 <div>
