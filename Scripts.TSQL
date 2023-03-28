@@ -18,7 +18,9 @@ select * from cursos
 order by nome;
 
 
-Passo 5 - 
+Passo 5 - Ordenando as pesquisas na tabela cursos pela ordem alfabética(nome) usando desc ou seja invertido da ultima letra do alfabeto para a primeira letra 
+select * from cursos
+order by nome desc;
 
 
 Passo 6 - 
