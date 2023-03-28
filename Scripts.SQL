@@ -53,7 +53,11 @@ order by ano desc, nome asc;
 
 
 
-Passo 10 - 
+Passo 10 - Realizando consulta na tabela cursos, somente dos dados que eu desejo (nome e carga, totaulas > 35 and < 30;)
+
+select nome, carga, totaulas from cursos
+where carga > 35 and totaulas < 30
+order by nome;
 
 
 em andamento, atualizações diárias...
