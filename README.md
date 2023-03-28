@@ -87,6 +87,14 @@ passo 9 - realizando consulta na tabela cursos, somente dos dados que eu desejo 
 </div>
 </br>
 
+<br>
+passo 10 - Realizando consulta na tabela cursos, somente dos dados que eu desejo (nome e carga, totaulas > 35 and < 30;)
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/228136235-2a78d177-a6bd-473e-b62e-f718aa33200d.jpeg" width="980px" />
+</div>
+</br>
 
 
 em andamento, atualizações diárias...
