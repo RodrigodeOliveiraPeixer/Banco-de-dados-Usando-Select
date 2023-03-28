@@ -45,8 +45,11 @@ order by ano, nome;
 
 
 
-Passo 9 - 
+Passo 9 - realizando consulta na tabela cursos, somente dos dados que eu desejo (nome, ano entre 2014 and 2016)
 
+select nome, ano from cursos
+where ano between 2014 and 2016
+order by ano desc, nome asc;
 
 
 
