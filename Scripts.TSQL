@@ -12,4 +12,32 @@ Select * from cursos;
 select * from alunos
 
 
+
+Passo 4 - Ordenando as pesquisas na tabela cursos pela ordem alfabética(nome)
+select * from cursos
+order by nome;
+
+
+Passo 5 - 
+
+
+Passo 6 - 
+
+
+Passo 7 - 
+
+
+
+Passo 8 - 
+
+
+
+Passo 9 - 
+
+
+
+
+Passo 10 - 
+
+
 em andamento, atualizações diárias...
