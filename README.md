@@ -42,6 +42,15 @@ passo 4 - Ordenando as pesquisas na tabela cursos pela ordem alfabética(nome)
 </div>
 </br>
 
+<br>
+passo 5 - Ordenando as pesquisas na tabela cursos pela ordem alfabética(nome) usando desc ou seja invertido da ultima letra do alfabeto para a primeira letra
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/228130643-34a454b7-56b9-4949-83a8-210f2b79f683.jpeg" width="980px" />
+</div>
+</br>
+
 
 
 
