@@ -31,8 +31,10 @@ select nome, carga, ano from cursos
 order by nome;
 
 
-Passo 7 - 
+Passo 7 - Realizando consulta na tabela cursos, somente dos dados que eu desejo(nome,carga,ano e colocando ano como principal e ordenando por nome)
 
+select nome, carga, ano from cursos
+order by ano, nome;
 
 
 Passo 8 - 
