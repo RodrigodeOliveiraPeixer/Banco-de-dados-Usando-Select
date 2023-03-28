@@ -51,6 +51,15 @@ passo 5 - Ordenando as pesquisas na tabela cursos pela ordem alfabética(nome) u
 </div>
 </br>
 
+<br>
+passo 6 - realizando consulta na tabela cursos, somente dos dados que eu desejo(nome,carga,ano)
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/228131751-31dc2f36-1c2a-4229-89cf-b85a6e9f6be7.jpeg" width="980px" />
+</div>
+</br>
+
 
 
 
