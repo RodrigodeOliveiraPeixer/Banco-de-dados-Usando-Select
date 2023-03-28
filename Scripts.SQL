@@ -14,16 +14,21 @@ select * from alunos
 
 
 Passo 4 - Ordenando as pesquisas na tabela cursos pela ordem alfabética(nome)
+
 select * from cursos
 order by nome;
 
 
 Passo 5 - Ordenando as pesquisas na tabela cursos pela ordem alfabética(nome) usando desc ou seja invertido da ultima letra do alfabeto para a primeira letra 
+
 select * from cursos
 order by nome desc;
 
 
-Passo 6 - 
+Passo 6 - Realizando consulta na tabela cursos, somente dos dados que eu desejo(nome,carga,ano)
+
+select nome, carga, ano from cursos
+order by nome;
 
 
 Passo 7 - 
