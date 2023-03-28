@@ -69,6 +69,15 @@ passo 7 - realizando consulta na tabela cursos, somente dos dados que eu desejo(
 </div>
 </br>
 
+<br>
+passo 8 - Realizando consulta na tabela cursos, somente dos dados que eu desejo (nome, descricao, carga, ano e anteriores 2015 separados por ano e na ordem)
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/228134201-bdbe9dcd-4b2a-4256-a6b6-03cb60dd8b1f.jpeg" width="980px" />
+</div>
+</br>
+
 
 
 
