@@ -37,7 +37,11 @@ select nome, carga, ano from cursos
 order by ano, nome;
 
 
-Passo 8 - 
+Passo 8 - Realizando consulta na tabela cursos, somente dos dados que eu desejo (nome, descricao, carga, ano e anteriores 2015 separados por ano e na ordem)
+
+select nome, descricao, carga, ano from cursos
+where ano <= '2015'
+order by ano, nome;
 
 
 
