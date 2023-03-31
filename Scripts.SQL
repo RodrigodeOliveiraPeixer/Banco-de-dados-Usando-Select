@@ -99,6 +99,10 @@ passo 18 - Pesquisando informação no banco de dados na tabela cursos usando Mi
 select nome, min(totaulas) from cursos 
 where ano = '2016';
 
+passo 19 - Pesquisando informação no banco de dados na tabela cursos usando SUM  para saber a quantidade total de horas dos cursos de 2016
+
+select sum(totaulas) from cursos 
+where ano = '2016';
 
 
 
