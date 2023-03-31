@@ -79,5 +79,9 @@ passo 14 - Pesquisando informação no banco de dados na tabela alunos usando LI
 select * from alunos
 where nome LIKE '%silva%';
 
+passo 15 - Pesquisando informação no banco de dados na tabela cursos usando DISTINCT  para saber um dado especifico como no exemplo carga horária que tem no banco de dados
+
+select distinct carga from cursos
+order by carga;
 
 em andamento, atualizações diárias...
