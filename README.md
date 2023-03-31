@@ -169,6 +169,15 @@ passo 18 - Pesquisando informação no banco de dados na tabela cursos usando Mi
 </div>
 </br>
 
+<br>
+passo 19 - Pesquisando informação no banco de dados na tabela cursos usando SUM  para saber a quantidade total de horas dos cursos de 2016
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/229221325-e66e73cb-c584-4e37-8e32-c8ac52c2be51.png" width="980px" />
+</div>
+</br>
+
 
 
 em andamento, atualizações diárias...
