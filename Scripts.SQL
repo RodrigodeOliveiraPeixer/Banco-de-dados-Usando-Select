@@ -69,5 +69,10 @@ Passo 12 - Pesquisando informação no banco de dados na tabela cursos usando LI
 select * from cursos
 where nome LIKE '%A';
 
+Passo 13 - Pesquisando informação no banco de dados na tabela cursos usando LIKE  começando com PH qualquer coisa no meio % com P no meio e qualquer % coisa no fim
+
+select * from cursos
+where nome LIKE 'ph%p%';
+
 
 em andamento, atualizações diárias...
