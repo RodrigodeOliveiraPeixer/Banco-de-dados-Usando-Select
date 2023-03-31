@@ -74,5 +74,10 @@ Passo 13 - Pesquisando informação no banco de dados na tabela cursos usando LI
 select * from cursos
 where nome LIKE 'ph%p%';
 
+passo 14 - Pesquisando informação no banco de dados na tabela alunos usando LIKE  que tem o nome em qualquer lugar
+
+select * from alunos
+where nome LIKE '%silva%';
+
 
 em andamento, atualizações diárias...
