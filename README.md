@@ -133,6 +133,15 @@ passo 14 - Pesquisando informação no banco de dados na tabela alunos usando LI
 </div>
 </br>
 
+<br>
+passo 15 - Pesquisando informação no banco de dados na tabela cursos usando DISTINCT  para saber um dado especifico como no exemplo carga horária que tem no banco de dados
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/229211604-ddbf19bd-dc06-4f70-a5ca-efef76b32f73.png" width="980px" />
+</div>
+</br>
+
 
 
 em andamento, atualizações diárias...
