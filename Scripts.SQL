@@ -59,5 +59,10 @@ select nome, carga, totaulas from cursos
 where carga > 35 and totaulas < 30
 order by nome;
 
+Passo 11 - Pesquisando informação no banco de dados na tabela cursos usando LIKE 
+
+select * from cursos
+where nome LIKE 'p%';
+
 
 em andamento, atualizações diárias...
