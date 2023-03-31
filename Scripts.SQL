@@ -84,4 +84,21 @@ passo 15 - Pesquisando informação no banco de dados na tabela cursos usando DI
 select distinct carga from cursos
 order by carga;
 
+passo 16 - Pesquisando informação no banco de dados na tabela cursos usando COUNT  para saber a quantidade de um determinado dado no banco de dados
+
+select count(*) from cursos
+where carga > 30;
+
+
+
+
+
+
+
+
+
+
+
+
+
 em andamento, atualizações diárias...
