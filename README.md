@@ -151,6 +151,14 @@ passo 16 - Pesquisando informação no banco de dados na tabela cursos usando CO
 </div>
 </br>
 
+<br>
+passo 17 - Pesquisando informação no banco de dados na tabela cursos usando MAX  para saber a quantidade de um determinado dado no banco de dados
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/229218234-4e22b52c-242b-4bc6-84bc-f0809e26e1e3.png" width="980px" />
+</div>
+</br>
 
 
 
