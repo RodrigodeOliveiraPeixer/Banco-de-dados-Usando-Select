@@ -120,7 +120,7 @@ passo 13 - Pesquisando informação no banco de dados na tabela cursos usando LI
 </br>
 <br>
 <div>
-<img src="https://user-images.githubusercontent.com/109769171/229210233-81e55541-2692-4b69-a219-9dc186e1bd76.png" width="980px" />
+<img src="https://user-images.githubusercontent.com/109769171/229215992-9524f446-04ec-4130-8522-7a896aa79ce0.png" width="980px" />
 </div>
 </br>
 
