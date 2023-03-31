@@ -97,4 +97,14 @@ passo 10 - Realizando consulta na tabela cursos, somente dos dados que eu desejo
 </br>
 
 
+<br>
+passo 11 - Pesquisando informação no banco de dados na tabela cursos usando LIKE 
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/229208806-24f1058f-a302-407e-bfca-ee41b6a2e899.png" width="980px" />
+</div>
+</br> 
+
+
 em andamento, atualizações diárias...
