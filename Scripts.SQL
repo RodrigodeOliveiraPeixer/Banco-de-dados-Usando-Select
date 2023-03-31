@@ -64,14 +64,10 @@ Passo 11 - Pesquisando informação no banco de dados na tabela cursos usando LI
 select * from cursos
 where nome LIKE 'p%';
 
-<br>
-passo 12 - Pesquisando informação no banco de dados na tabela cursos usando LIKE  pela ultima letra da pesquisa desejada
-</br>
-<br>
-<div>
-<img src="https://user-images.githubusercontent.com/109769171/229209337-117f639c-e203-4281-9de7-720ffec5a6f4.png" width="980px" />
-</div>
-</br>
+Passo 12 - Pesquisando informação no banco de dados na tabela cursos usando LIKE  pela ultima letra da pesquisa desejada
+
+select * from cursos
+where nome LIKE '%A';
 
 
 em andamento, atualizações diárias...
