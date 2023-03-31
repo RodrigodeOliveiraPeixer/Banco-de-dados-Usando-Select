@@ -138,7 +138,7 @@ passo 15 - Pesquisando informação no banco de dados na tabela cursos usando DI
 </br>
 <br>
 <div>
-<img src="https://user-images.githubusercontent.com/109769171/229211604-ddbf19bd-dc06-4f70-a5ca-efef76b32f73.png" width="980px" />
+<img src="https://user-images.githubusercontent.com/109769171/229215406-eeba1ef9-aca6-4894-95cb-4ad746b7577c.png" width="980px" />
 </div>
 </br>
 
