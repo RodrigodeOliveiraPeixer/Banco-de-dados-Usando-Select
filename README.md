@@ -106,5 +106,14 @@ passo 11 - Pesquisando informação no banco de dados na tabela cursos usando LI
 </div>
 </br> 
 
+<br>
+passo 12 - Pesquisando informação no banco de dados na tabela cursos usando LIKE  pela ultima letra da pesquisa desejada
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/229209337-117f639c-e203-4281-9de7-720ffec5a6f4.png" width="980px" />
+</div>
+</br>
+
 
 em andamento, atualizações diárias...
