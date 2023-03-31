@@ -129,7 +129,7 @@ passo 14 - Pesquisando informação no banco de dados na tabela alunos usando LI
 </br>
 <br>
 <div>
-<img src="https://user-images.githubusercontent.com/109769171/229211036-bad035c0-6419-43a7-af1b-03e185ff54bc.png" width="980px" />
+<img src="https://user-images.githubusercontent.com/109769171/229215709-c6ffd45d-3c80-44ed-838f-5949897cd42a.png" width="980px" />
 </div>
 </br>
 
