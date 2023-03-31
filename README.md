@@ -115,5 +115,14 @@ passo 12 - Pesquisando informação no banco de dados na tabela cursos usando LI
 </div>
 </br>
 
+<br>
+passo 13 - Pesquisando informação no banco de dados na tabela cursos usando LIKE  começando com PH qualquer coisa no meio % com P no meio e qualquer % coisa no fim
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/229210233-81e55541-2692-4b69-a219-9dc186e1bd76.png" width="980px" />
+</div>
+</br>
+
 
 em andamento, atualizações diárias...
