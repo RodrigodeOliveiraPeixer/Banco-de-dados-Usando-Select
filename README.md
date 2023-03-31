@@ -124,5 +124,15 @@ passo 13 - Pesquisando informação no banco de dados na tabela cursos usando LI
 </div>
 </br>
 
+<br>
+passo 14 - Pesquisando informação no banco de dados na tabela alunos usando LIKE  que tem o nome em qualquer lugar
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/229211036-bad035c0-6419-43a7-af1b-03e185ff54bc.png" width="980px" />
+</div>
+</br>
+
+
 
 em andamento, atualizações diárias...
