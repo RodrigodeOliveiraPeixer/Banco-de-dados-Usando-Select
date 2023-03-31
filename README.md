@@ -178,6 +178,15 @@ passo 19 - Pesquisando informação no banco de dados na tabela cursos usando SU
 </div>
 </br>
 
+<br>
+passo 20 - Pesquisando informação no banco de dados na tabela cursos usando AVG  para saber a quantidade media de horas dos cursos de 2016
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/229222154-15ae9706-3e80-4d6a-9651-650ba2cf94f5.png" width="980px" />
+</div>
+</br>
+
 
 
 em andamento, atualizações diárias...
