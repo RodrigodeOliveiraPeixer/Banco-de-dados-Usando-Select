@@ -104,7 +104,10 @@ passo 19 - Pesquisando informação no banco de dados na tabela cursos usando SU
 select sum(totaulas) from cursos 
 where ano = '2016';
 
+passo 20 - Pesquisando informação no banco de dados na tabela cursos usando AVG  para saber a quantidade media de horas dos cursos de 2016
 
+select AVG(totaulas) from cursos
+where ano = '2016';
 
 
 
