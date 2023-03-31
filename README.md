@@ -160,6 +160,15 @@ passo 17 - Pesquisando informação no banco de dados na tabela cursos usando MA
 </div>
 </br>
 
+<br>
+passo 18 - Pesquisando informação no banco de dados na tabela cursos usando Min  para saber a quantidade de um determinado dado com o nome no banco de dados
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/229220298-88a94441-fbb1-4488-b534-72633834fd9c.png" width="980px" />
+</div>
+</br>
+
 
 
 em andamento, atualizações diárias...
