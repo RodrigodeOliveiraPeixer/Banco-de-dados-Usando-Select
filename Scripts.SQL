@@ -89,9 +89,15 @@ passo 16 - Pesquisando informação no banco de dados na tabela cursos usando CO
 select count(*) from cursos
 where carga > 30;
 
+passo 17 - Pesquisando informação no banco de dados na tabela cursos usando MAX  para saber a quantidade de um determinado dado no banco de dados
 
+select max(totaulas) from cursos
+where ano = '2016';
 
+passo 18 - Pesquisando informação no banco de dados na tabela cursos usando Min  para saber a quantidade de um determinado dado com o nome no banco de dados
 
+select nome, min(totaulas) from cursos 
+where ano = '2016';
 
 
 
