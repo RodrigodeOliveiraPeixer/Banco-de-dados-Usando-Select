@@ -142,6 +142,16 @@ passo 15 - Pesquisando informação no banco de dados na tabela cursos usando DI
 </div>
 </br>
 
+<br>
+passo 16 - Pesquisando informação no banco de dados na tabela cursos usando COUNT  para saber a quantidade de um determinado dado no banco de dados
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/229214864-adac4e9f-b1a1-4e31-8ba2-b7a0a3dfc41e.png" width="980px" />
+</div>
+</br>
+
+
 
 
 em andamento, atualizações diárias...
